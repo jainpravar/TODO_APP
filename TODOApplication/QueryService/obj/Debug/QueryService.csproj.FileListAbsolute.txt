@@ -1,0 +1,10 @@
+C:\Users\pravar.jain\documents\visual studio 2013\Projects\TODOApplication\QueryService\bin\QueryService.dll.config
+C:\Users\pravar.jain\documents\visual studio 2013\Projects\TODOApplication\QueryService\bin\QueryService.dll
+C:\Users\pravar.jain\documents\visual studio 2013\Projects\TODOApplication\QueryService\bin\QueryService.pdb
+C:\Users\pravar.jain\documents\visual studio 2013\Projects\TODOApplication\QueryService\bin\DbModel.dll
+C:\Users\pravar.jain\documents\visual studio 2013\Projects\TODOApplication\QueryService\bin\Repository.dll
+C:\Users\pravar.jain\documents\visual studio 2013\Projects\TODOApplication\QueryService\bin\DbModel.pdb
+C:\Users\pravar.jain\documents\visual studio 2013\Projects\TODOApplication\QueryService\bin\Repository.pdb
+C:\Users\pravar.jain\documents\visual studio 2013\Projects\TODOApplication\QueryService\obj\Debug\QueryService.dll
+C:\Users\pravar.jain\documents\visual studio 2013\Projects\TODOApplication\QueryService\obj\Debug\QueryService.pdb
+C:\Users\pravar.jain\documents\visual studio 2013\Projects\TODOApplication\QueryService\obj\Debug\QueryService.csprojResolveAssemblyReference.cache
